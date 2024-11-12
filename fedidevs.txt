@@ -1,0 +1,4 @@
+community=Fediverse Developer Network
+title=Participation Guidelines
+version=Draft 0.1 2024-11-11
+contact=the administrators of the #fediverse-developer-network:matrix.org Matrix group
